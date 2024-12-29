@@ -32,7 +32,7 @@ Importance des caractéristiques : Analyse et présentation de l'importance des 
 
 6. Comparaison des modèles et Interprétation
 Comparaions des modèles : Visualisations comparatives des différents MSE et R2.
-Interprétation : Conclusion sur la prédiction de la variable target et l'importances des différentes variables du dataset.
+Interprétation : Conclusion sur la prédiction de la variable target et l'importance des différentes variables du dataset.
 
 
 ATTENTION : Aucune interprétation sociale, ethnique et politique n'est réalisée. Tous les résultats sont expérimentaux et ne sont sujets à aucune conclusion.

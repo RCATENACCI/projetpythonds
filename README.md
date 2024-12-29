@@ -3,7 +3,7 @@ Titre : Prédictrion des prix de l'immobilier à partir de différentes variable
 
 Sujet récupéré à partir d'un data-challenge Kaggle. Dataset récupéré sur Github.
 
-REPRODUCTIBILITE : Pour exécuter le projet, il suffit de récupérer le NoteBook Data-collecting.ipynb et de faire tourner toutes les cellules. 
+REPRODUCTIBILITE : Pour exécuter le projet, il suffit de récupérer le NoteBook Main.ipynb et de faire tourner toutes les cellules. 
 
 NB: je n'arrive pas à changer le nom du notebook principal.
 
